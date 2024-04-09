@@ -1,2 +1,2 @@
 # Bioinformatic-projects
-RNA-seq workflow and analysis using Galaxy and Python
+RNA-seq workflow and analysis using Galaxy.org and Python
