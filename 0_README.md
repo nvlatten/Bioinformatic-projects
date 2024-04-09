@@ -1,7 +1,7 @@
 # Bioinformatic-projects
 RNA-seq workflow and analysis using Galaxy.org and Python
 
-E.coli fed-batch analysis
+E.coli fed-batch analysis, NCBI Accession	PRJNA1075344
 
 Control:
 
