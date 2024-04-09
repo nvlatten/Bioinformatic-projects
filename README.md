@@ -1,5 +1,5 @@
 Bioinformatic-projects
-RNA-seq workflow and analysis using Galaxy.org and Python
+RNA-seq workflow and analysis using Galaxy (usegalaxy.org) and Python
 
 E.coli fed-batch analysis, NCBI Accession PRJNA1075344
 
