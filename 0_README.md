@@ -8,12 +8,12 @@ Control:
 https://www.ncbi.nlm.nih.gov/sra/SRX23596788[accn]
 https://www.ncbi.nlm.nih.gov/sra/SRX23596787[accn]
 
-Oxigeno:
+Oxigen:
 
 https://www.ncbi.nlm.nih.gov/sra/SRX23596804[accn]
 https://www.ncbi.nlm.nih.gov/sra/SRX23596790[accn]
 
-Glucosa:
+Glucose:
 
 https://www.ncbi.nlm.nih.gov/sra/SRX23596803[accn]
 https://www.ncbi.nlm.nih.gov/sra/SRX23596801[accn]
